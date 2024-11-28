@@ -1,1 +1,2 @@
 # Advanced-Algorithm
+MIT
