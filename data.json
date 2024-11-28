@@ -1,0 +1,23 @@
+{
+  "course_title":"Advanced Algorithms",
+  "course_description":"This is a graduate course on the design and analysis of algorithms, covering several advanced topics not studied in typical introductory courses on algorithms. It is especially designed for doctoral students interested in theoretical computer science.\n",
+  "course_description_html":"This is a graduate course on the design and analysis of algorithms, covering several advanced topics not studied in typical introductory courses on algorithms. It is especially designed for doctoral students interested in theoretical computer science.",
+  "site_uid":"a04442fa-26e0-437f-ba7d-77997886990c",
+  "legacy_uid":"5827380e-3bd7-4582-2545-984041f3003e","instructors": [{
+    "first_name":"Michel",
+    "last_name":"Goemans",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Michel Goemans"}],"department_numbers":["6","18"],
+  "learning_resource_types":["Lecture Notes","Problem Sets with Solutions"],
+  "topics":[["Engineering","Computer Science","Algorithms and Data Structures"],["Engineering","Computer Science","Theory of Computation"]],
+  "mit_learn_topics":null,
+  "primary_course_number":"6.854J",
+  "extra_course_numbers":"18.415J",
+  "term":"Fall",
+  "year":"2008",
+  "level":["Graduate"],
+  "hide_download":null,
+  "image_src":"./static_resources/67859e9fc78239f07aad05ffb4f0c7a4_6-854jf08.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"One iteration of the ellipsoid algorithm. (Image courtesy of Reina Riemann.)","draft":false,"file":"/courses/6-854j-advanced-algorithms-fall-2008/67859e9fc78239f07aad05ffb4f0c7a4_6-854jf08.jpg","file_size":32668,"file_type":"image/jpeg","image_metadata":{"caption":"One iteration of the ellipsoid algorithm. (Image courtesy of Reina Riemann.)","credit":"","image-alt":"Ellipses on an axis."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"Ellipses on an axis","uid":"67859e9f-c782-39f0-7aad-05ffb4f0c7a4"}}
+

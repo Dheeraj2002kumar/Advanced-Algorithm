@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Approximaion Algorithms: MAXCUT</title>
+      <link>/resources/lec18/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec18/data.json</guid>
+      <description>Lecture notes on the MAX-CUT problem, local search, the random cut, LP relaxation, and SDP relaxation.</description>
+    </item>
+    
+    <item>
+      <title>Fibonacci heaps</title>
+      <link>/resources/lec1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec1/data.json</guid>
+      <description>Lecture notes on Fibonacci heaps, a data structure that provides a very efficient implementation of a priority queue.</description>
+    </item>
+    
+    <item>
+      <title>Goldberg-Tarjan Min-Cost Circulation Algorithm</title>
+      <link>/resources/lec4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec4/data.json</guid>
+      <description>Lecture notes on the Goldberg-Tarjan min-cost circulation algorithm, Klein’s cycle cancelling algorithm for finding the circulation of minimum cost in greater detail, bounding the number of iterations, analysis for integer-valued costs, and strongly polynomial analysis.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 10</title>
+      <link>/resources/lec10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec10/data.json</guid>
+      <description>Lecture notes on the standard dual form of a linear program, the geometry of linear programming, and a basic sketch of the simplex method.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 11</title>
+      <link>/resources/lec11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec11/data.json</guid>
+      <description>Lecture notes on linear programming and the ellipsoid algorithm.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 12 - Ellipsoid algorithm</title>
+      <link>/resources/lec12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec12/data.json</guid>
+      <description>Lecture notes on the ellipsoid algorithm and how it can be applied to the linear programming problem.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 13</title>
+      <link>/resources/lec13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec13/data.json</guid>
+      <description>Lecture notes on two applications of the ellipsoid method: linear programming without an explicit linear program, and semidefinite programming.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 14</title>
+      <link>/resources/lec14/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec14/data.json</guid>
+      <description>Lecture notes on linear programming, semidefinite programming, conic programming, using interior point algorithms for solving linear programs, and convex programs.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 15: Interior Point Algorithms for Conic Programming</title>
+      <link>/resources/lec15/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec15/data.json</guid>
+      <description>Lecture notes on interior point algorithms for conic programming.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 16: Approximation Algorithms</title>
+      <link>/resources/lec16/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec16/data.json</guid>
+      <description>Lecture notes on approximation algorithms, the traveling salesman problem, designing approximation algorithms via relaxations, and the primal dual technique.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 17: Approximation algorithms (facility location)</title>
+      <link>/resources/lec17/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec17/data.json</guid>
+      <description>Lecture notes on approximation algorithms, the facility location problem, the primal-dual approach, and the local search based approach.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 18</title>
+      <link>/resources/lecture18/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture18/data.json</guid>
+      <description>Lecture notes on approximation algorithms (max-cut), the generalized Steiner tree problem, the Goemans-Williamson algorithm, implementation, and generalizations.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 19</title>
+      <link>/resources/lec19/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec19/data.json</guid>
+      <description>Lecture notes on MAXCUT, SPARSEST-CUT, multicommodity flows, metrics, and finite metric spaces.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 21: Convex Hull in R2 and Small-d LP’s</title>
+      <link>/resources/lec21/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec21/data.json</guid>
+      <description>Lecture notes on convex hulls and fixed dimension linear programming.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 22</title>
+      <link>/resources/lec22/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec22/data.json</guid>
+      <description>Lecture notes on using Seidel’s algorithm to solve linear programs and to develop a randomized convex-hull algorithm.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 23</title>
+      <link>/resources/lec23/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec23/data.json</guid>
+      <description>Lecture notes on Voronoi diagrams.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 3</title>
+      <link>/resources/lec3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec3/data.json</guid>
+      <description>Lecture notes on maximum flows, the fattest path augmenting algorithm, an improvement over the Ford-Fulkerson algorithm, and the minimum cost circulation problem.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 5</title>
+      <link>/resources/lec5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec5/data.json</guid>
+      <description>Lecture notes on minimum cost circulation problem, the Goldberg-Tarjan algorithm, the Cancel-and-Tighten algorithm, splay trees, and dynamic trees.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 6 - Splay Trees</title>
+      <link>/resources/lec6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec6/data.json</guid>
+      <description>Lecture notes on splay trees, splay tree structure, running-time analysis, and comparison to other binary search trees.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 7 - Dynamic Trees</title>
+      <link>/resources/lec7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec7/data.json</guid>
+      <description>Lecture notes on dynamics trees, implementation of Cancel with dynamic trees, and dynamic trees implementation.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 8</title>
+      <link>/resources/lec8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec8/data.json</guid>
+      <description>Lecture notes on dynamic trees.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 9</title>
+      <link>/resources/lec9/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec9/data.json</guid>
+      <description>Lecture notes on linear programming.</description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>The students in this course were required to take turns scribing lecture notes. They were provided with detailed instructions and a template. The process of scribing lecture notes provides students with valuable experience preparing mathematical documents, and also generates a useful set of lecture notes for the class.
+Notes are used with the permission of the student scribes.
+LEC # TOPICS LECTURE NOTES 1 Fibonacci heaps (PDF) 2 Network flows (PDF) 3 Maximum flow; minimum cost circulation (PDF) 4 Goldberg-Tarjan min-cost circulation algorithm (PDF) 5 Cancel-and-tighten algorithm; binary search trees (PDF) 6 Splay trees (PDF) 7 Dynamic trees (part 1) (PDF) 8 Dynamic trees (part 2) (PDF) 9 Linear programming (LP) (PDF) 10 LP: duality, geometry, simplex (PDF) 11 LP: complexity; introduction to the ellipsoid algorithm (PDF) 12 LP: ellipsoid algorithm (PDF) 13 LP: applications of the ellipsoid algorithm Notes not available 14 Conic programming I (PDF) 15 Conic programming II (PDF) 16 Approximation algorithms (PDF) 17 Approximation algorithms (facility location) (PDF) 18 Approximation algorithms (max-cut) (PDF) 19 Max-cut and sparsest-cut (PDF) 20 Multi-commodity flows and metric embeddings Notes not available 21 Convex hulls Notes not available 22 Convex hulls and fixed dimension LP (PDF) 23 Voronoi diagrams (PDF) 24 Approximation scheme for the Euclidean traveling salesman problem Notes not available 25 Streaming algorithms Notes not available 26 Streaming algorithms (cont.</description>
+    </item>
+    
+    <item>
+      <title>Network Flows</title>
+      <link>/resources/lec2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec2/data.json</guid>
+      <description>Lecture notes on network flows, the shortest path problem, and the maximum flow problem.</description>
+    </item>
+    
+  </channel>
+</rss>

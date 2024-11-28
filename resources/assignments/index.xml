@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>Problems Sets from 2008 The problem sets are due in the sessions listed in the table.
+LEC # ASSIGNMENTS 5 Problem set 1 (PDF) 8 Problem set 2 (PDF) 11 Problem set 3 (PDF) 16 Problem set 4 (PDF) 21 Problem set 5 (PDF) 26 Problem set 6 (PDF) Problems Sets with Solution from 2001 LEC # ASSIGNMENTS SOLUTIONS 3 Problem set 1 (PDF) (PDF - 1.2 MB) 8 Problem set 2 (PDF) (PDF - 1.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 1</title>
+      <link>/resources/ps1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps1/data.json</guid>
+      <description>Problem set on advanced algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 1 (2001)</title>
+      <link>/resources/homework1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/homework1/data.json</guid>
+      <description>Problem set on advanced algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 2</title>
+      <link>/resources/ps2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps2/data.json</guid>
+      <description>Problem set on advanced algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 2 (2001)</title>
+      <link>/resources/homework2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/homework2/data.json</guid>
+      <description>Problem set on advanced algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 3</title>
+      <link>/resources/ps3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps3/data.json</guid>
+      <description>Problem set on advanced algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 3 (2001)</title>
+      <link>/resources/homework3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/homework3/data.json</guid>
+      <description>Problem set on advanced algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 4</title>
+      <link>/resources/ps4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps4/data.json</guid>
+      <description>Problem set on advanced algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 4 (2001)</title>
+      <link>/resources/homework4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/homework4/data.json</guid>
+      <description>Problem set on advanced algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 5</title>
+      <link>/resources/ps5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps5/data.json</guid>
+      <description>Problem set on advanced algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 5 (2001)</title>
+      <link>/resources/homework5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/homework5/data.json</guid>
+      <description>Problem set on advanced algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 6</title>
+      <link>/resources/ps6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps6/data.json</guid>
+      <description>Problem set on advanced algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 6 (2001)</title>
+      <link>/resources/homework6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/homework6/data.json</guid>
+      <description>Problem set on advanced algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set Solution 1</title>
+      <link>/resources/solution1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/solution1/data.json</guid>
+      <description>Solutions to a problem set on advanced algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set Solution 2</title>
+      <link>/resources/solution2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/solution2/data.json</guid>
+      <description>Solutions to a problem set on advanced algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set Solution 3</title>
+      <link>/resources/solution3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/solution3/data.json</guid>
+      <description>Solutions to a problem set on advanced algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set Solution 4</title>
+      <link>/resources/sol4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sol4/data.json</guid>
+      <description>Solutions to a problem set on advanced algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set Solution 5</title>
+      <link>/resources/sol5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sol5/data.json</guid>
+      <description>Solutions to a problem set on advanced algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set Solution 6</title>
+      <link>/resources/sol6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sol6/data.json</guid>
+      <description>Solutions to a problem set on advanced algorithms.</description>
+    </item>
+    
+  </channel>
+</rss>

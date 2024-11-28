@@ -1,0 +1,6 @@
+
+{
+  "title":"Calendar",
+  "content":" LEC # TOPICS KEY DATES 1 Fibonacci heaps 2 Network flows 3 Maximum flow; minimum cost circulation Problem set 1 out 4 Goldberg-Tarjan min-cost circulation algorithm 5 Cancel-and-tighten algorithm; binary search trees Problem set 1 due\nProblem set 2 out\n6 Splay trees 7 Dynamic trees (part 1) 8 Dynamic trees (part 2) Problem set 2 due 9 Linear programming (LP) Problem set 3 out 10 LP: duality, geometry, simplex 11 LP: complexity; introduction to the ellipsoid algorithm Problem set 3 due 12 LP: ellipsoid algorithm 13 LP: applications of the ellipsoid algorithm Problem set 4 out 14 Conic programming I 15 Conic programming II 16 Approximation algorithms Problem set 4 due 17 Approximation algorithms (facility location) 18 Approximation algorithms (max-cut) Problem set 5 out 19 Max-cut and sparsest-cut 20 Multi-commodity flows and metric embeddings Problem set 5 due 21 Convex hulls 22 Convex hulls and fixed dimension LP Problem set 6 out 23 Voronoi diagrams 24 Approximation scheme for the Euclidean traveling salesman problem 25 Streaming algorithms 26 Streaming algorithms (cont\u0026rsquo;d) Problem set 6 out "}
+
+
